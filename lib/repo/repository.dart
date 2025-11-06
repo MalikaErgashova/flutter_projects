@@ -7,8 +7,7 @@ import 'package:http/http.dart' as http;
 import 'package:media_scanner/media_scanner.dart';
 
 class Repository {
-  final String apiKey =
-      'h4qKE5L62FNTgOQaQL11e68p5gsa7OHSz9XhIQKQ6yChLM1WOdkhj2Ws';
+
   final String baseUrl = 'https://api.pexels.com/v1/';
 
   ///making it as a ist
